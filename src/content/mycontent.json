@@ -2,67 +2,67 @@
 	"Title": "Surath Kumar Srivastva | Personal Webpage",
 	"Name": "Surath Kumar Srivastva",
 	"Description": [
-		"A 4th year under-graduate student from National Institute of Technology, Silchar. Passionate about Web technology, Cognitive Modelling and Open Source.",
+		"A 4th year under-graduate student from National Institute of Technology, Silchar. Passionate about Software Development, Web technologies and Open Source.",
 		"I grab every chance I get to travel, learn and create."
 	],
-	"MainImage": "https://i.imgur.com/yQZNGdm.jpg",
+	"MainImage": "https://imgur.com/a/gLyOjwM",
 	"BackgroundURL": "",
 
 	"AboutImage": "blob:https://www.imgur.com/c92e08b1-12a0-4a03-858e-1a6fbce3289d",
 	"AboutContent": [
-		"I’m a Computer Science major by day, a Table Tennis player by evening, a functional wantrepreneur by midnight and a hustler always.",
-		"If you can’t find me, it’s because I’m already cycling, off to a hike, or studying for an exam",
-		"I am passionate about Space Technology and Human Psychology (though, never studied them formally). A die-hard fan of Elon Musk.",
-		"I love the way the concept of \"work\" has evolved over the past decades, and hence would love to travel and work together whenever I can."
+		"I’m a coding geek major by day, a cricket player by evening, a functional wantrepreneur by midnight and joyful always.",
+		"If you can’t find me, it’s because I’m already cycling, or studying in library.",
+		"I am passionate about Web Technology and Human Psychology (though, never studied them formally). A die-hard fan of Shah Rukh Khan.",
+		"I love the way the concept of \"work\" has evolved over the past decades, and hence would love to be happy and work together ."
 	],
 
 	"WorkContent": [
-		"I am currently full time Software Developer Engineer at Microsoft."
+		""
 	],
 	"WorkImage": "https://i.imgur.com/BHt1YKg.png",
 	"InternshipsStartLine": "Previously, I have interned with :",
 	"InternShips": [{
-			"name": "Amazon India",
+			"name": "TSAW (A Growing Start-Up aimimg for contribution in national Defence & Security ",
 			"link": "#"
 		},
 		{
-			"name": "North-Eastern Space Application Center (ISRO)",
+			"name": "xyz",
 			"link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
 		},
 		{
-			"name": "Computer Vision Center, Universitat Autonoma de Barcelona",
+			"name": "xyz",
 			"link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
 		}
 	],
 	"ProjectsStartLine": "Some of the side projects I did can be found here :",
 	"Projects": [{
-			"name": "EisenList",
+			"name": "Yelp-Camp",
 			"link": "https://github.com/adityaketkar/eisenlist"
 		},
 		{
-			"name": "DelOr",
+			"name": "MadeMyDay",
 			"link": "https://bitsdelor.wixsite.com/delor"
 		},
 		{
-			"name": "Alexa Music Companion",
+			"name": "xyz",
 			"link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
 		},
 		{
 			"name": "Gatsby Personal Webpage",
-			"link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
+			"link": "https://github.com/iamgithub1999/Personal-Homepage"
 		}
 	],
 
-	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
-	"CV": "https://www.visualcv.com/aditya-ketkar/",
-	"Resume": "https://drive.google.com/file/d/1M1Vw1J7Yc3BFIgzJXX4_U-_nfIXCfK8n/view?usp=sharing",
+	"CVStartLine": "I am always love to play with new technologies and frame works. Feel free to reach out if you want to work together with a new idea :) ",
+	"CV": "https://www.visualcv.com/SURATH/",
+	"Resume": "https://drive.google.com/file/d/1droFA1HB9xRTy2LXK1N4Ee3I1EuIr8f5/view?usp=sharing",
 
-	"emailid": "mailto:adityaketkar848@gmail.com",
-	"linkedin": "https://linkedin.com/in/adityaketkar",
-	"wordpress": "https://technoshblog.wordpress.com/",
-	"facebook": "https://www.facebook.com/aditya",
-	"github": "https://github.com/adityaketkar",
-	"instagram": "http://www.adityaketkar.me",
-	"twitter": "https://twitter.com/ketkar_a",
-	"medium": "https://medium.com/@ketkaraditya"
+	"emailid": "mailto:surath.nits@gmail.com",
+	"linkedin": "https://www.linkedin.com/in/surath-srivastva/",
+	"wordpress": "",
+	"facebook": "",
+	"github": "https://github.com/iamgithub1999",
+	"instagram": "",
+	"twitter": "https://twitter.com/KrSri123",
+	"medium": ""
 }
