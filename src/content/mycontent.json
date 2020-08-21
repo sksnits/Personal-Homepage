@@ -27,11 +27,11 @@
 		},
 		{
 			"name": "xyz",
-			"link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
+			"link": "#"
 		},
 		{
 			"name": "xyz",
-			"link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
+			"link": "#"
 		}
 	],
 	"ProjectsStartLine": "Some of the side projects I did can be found here :",
@@ -41,11 +41,11 @@
 		},
 		{
 			"name": "MadeMyDay",
-			"link": "https://bitsdelor.wixsite.com/delor"
+			"link": "#"
 		},
 		{
 			"name": "xyz",
-			"link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
+			"link": "#"
 		},
 		{
 			"name": "Gatsby Personal Webpage",
