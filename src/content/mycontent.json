@@ -23,39 +23,38 @@
 	"InternshipsStartLine": "Previously, I have interned with :",
 	"InternShips": [{
 			"name": "TSAW (A Growing Start-Up aimimg for contribution in national Defence & Security ",
-			"link": "#"
+			"link": "https://www.tsaw.tech/index.php"
 		},
 		{
-			"name": "xyz",
-			"link": "#"
+			"name": "Automation and Control System (An industry aims to develope automation systems which works well over MNCs for an affordable price)",
+			"link": "http://www.acs-india.com/"
 		},
-		{
-			"name": "xyz",
-			"link": "#"
-		}
 	],
 	"ProjectsStartLine": "Some of the side projects I did can be found here :",
-	"Projects": [{
-			"name": "Yelp-Camp",
-			"link": "https://github.com/a_k/eisenlist"
+	"Projects": [
+		{
+			"name": "Gatsby Personal Webpage",
+			"link": "https://github.com/iamgithub1999/Personal-Homepage"
+		}
+		
+		{
+			"name": "Innovation & Entrepreneurship Development (IEDC) Project",
+			"link": "https://drive.google.com/file/d/1pq5F-KfkU3Nd6-0KOz6W2slsTYaALArJ/view?usp=sharing"
 		},
 		{
 			"name": "MadeMyDay",
 			"link": "#"
 		},
 		{
-			"name": "xyz",
+			"name": "",
 			"link": "#"
 		},
-		{
-			"name": "Gatsby Personal Webpage",
-			"link": "https://github.com/iamgithub1999/Personal-Homepage"
-		}
+		
 	],
 
 	"CVStartLine": "I am always love to play with new technologies and frame works. Feel free to reach out if you want to work together with a new idea :) ",
-	"CV": "https://www.visualcv.com/SURATH/",
 	"Resume": "https://drive.google.com/file/d/1YT1O_DZdDRw5MlPTPjt_FE4GihbjoRWX/view?usp=sharing",
+	"CV": "https://www.visualcv.com/SURATH/",
 
 	"emailid": "mailto:surath.nits@gmail.com",
 	"linkedin": "https://www.linkedin.com/in/surath-srivastva/",
